@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../heropy-coffee"
+		},
+		{
+			"path": "../shin_class(0414)"
+		},
+		{
+			"path": "../shin_class(0416)"
+		},
+		{
+			"path": "../node_first"
+		},
+		{
+			"path": "../shin_class(0418)"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "heropy-coffee"
+	}
+}
